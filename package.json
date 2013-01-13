@@ -1,0 +1,12 @@
+{
+  "name": "names",
+  "version": "0.0.1",
+  "devDependencies": {
+    "chai": ""
+  },
+  "dependencies": {
+    "async": "",
+    "lodash": "",
+    "request": ""
+  }
+}
